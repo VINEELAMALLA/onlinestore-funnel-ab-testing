@@ -1,4 +1,4 @@
-# 📊 E-commerce Funnel Analysis & A/B Testing
+# 📊 Funnel Drop-off Analysis & A/B Testing for Online Store
 
 ## 📌 Project Overview
 
