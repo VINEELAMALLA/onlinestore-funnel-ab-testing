@@ -1,4 +1,4 @@
-# 📊 E-commerce Funnel Analysis & A/B Testing Dashboard
+# 📊 E-commerce Funnel Analysis & A/B Testing
 
 ## 📌 Project Overview
 
